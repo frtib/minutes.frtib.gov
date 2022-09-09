@@ -2,6 +2,7 @@
 layout: page2
 title: 404 Error - Page not Found
 permalink: /404.html
+# redirect_to: /
 ---
 
 
@@ -23,7 +24,7 @@ permalink: /404.html
       <p>
         If you typed the URL directly, check your spelling and
         capitalization. Our URLs look like this:
-        <strong><a href="/privacy">frtib.gov/privacy</a></strong>.
+        <strong><a href="/">minutes.frtib.gov</a></strong>.
       </p>
       <p>
         Visit our homepage for helpful tools and resources, or contact
@@ -31,8 +32,10 @@ permalink: /404.html
       </p>
       <p>
         {% include button-link url="/" text="Back to the homepage" -%}
+{% comment %}
       <br>
         {% include button-link url="/contacts/" text="Contact Us" -%}
+{% endcomment %}
       </p>
 
       </div>
