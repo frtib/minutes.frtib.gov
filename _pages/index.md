@@ -7,7 +7,7 @@ scripts:
 #  - /assets/js/jquery.min.js
 permalink: /
 return_to_top: true
-# last_update: April 27, 2022
+# last_update: August 28, 2023
 #document-ready:
 #  - getRate();
 # minYear: 2007
