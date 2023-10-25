@@ -1,17 +1,9 @@
 ---
 layout: page2
 title: Meeting Minutes Archive
-styles:
-# sidenav:
-scripts:
-#  - /assets/js/jquery.min.js
 permalink: /
 return_to_top: true
-# last_update: August 28, 2023
-#document-ready:
-#  - getRate();
-# minYear: 2007
-# maxYear: 2019
+
 ---
 
 ## Meeting Minutes Archive
